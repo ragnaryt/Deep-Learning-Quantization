@@ -1,7 +1,6 @@
-# Deep Learning Quantization
-## Board: Google Coral Dev Board  
+# Deep Learning Quantization   
 
-## TensorFlow models on the Edge TPU
+## TensorFlow models on the Edge TPU (Google Coral Dev Board)
 ### Overview
 In order for the Edge TPU to provide high-speed neural network performance with a low-power cost, the Edge TPU supports a specific set of neural network operations and architectures.  
 The Edge TPU is capable of executing deep feed-forward neural networks such as convolutional neural networks (CNN). It supports only TensorFlow Lite models that are fully 8-bit quantized and then compiled specifically for the Edge TPU.  
